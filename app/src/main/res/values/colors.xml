@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#e0e0e0</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="active_color">#eb4d4e</color>
+    <color name="inactive_color">#747474</color>
+
+    <color name="divider_color">#95989a</color>
+    <!-- chart color -->
+    <color name="start_color">#edc4ba</color>
+
+</resources>
